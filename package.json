@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pingidem",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ping numeric idem values, ranges, and human-readable units.",
+  "bin": {
+    "pingidem": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pingidem.git"
+  },
+  "homepage": "https://theworker02.github.io/pingidem/",
+  "keywords": [
+    "ping",
+    "idem",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
